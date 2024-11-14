@@ -1,4 +1,4 @@
-# RLExam
+# Deep Deterministic Policy Gradient (DDPG) - Reinforcement Learning exam
 
 This is the repository for the Reinforcement Learning exam @UniVR, academic year 2023-2024.
 
